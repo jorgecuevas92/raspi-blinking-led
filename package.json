@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "onoff": "^3.0.2"
+    "onoff": "^3.0.2",
+    "socket.io": "^2.1.0"
   }
 }
